@@ -15,8 +15,8 @@ export default class MyDocument extends Document {
             name="viewport"
             content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no,  shrink-to-fit=no"
           />
-          <link rel="shortcut icon" href="//static.unubo.cloud/favicon.ico" />
-          <link rel="stylesheet" href="//static.unubo.cloud/style.css" />
+          <link rel="shortcut icon" href="//assets.unubo.com/unubo-cloud-examples/favicon.ico" />
+          <link rel="stylesheet" href="//assets.unubo.com/unubo-cloud-examples/style.css" />
       
           <title>Node.js - Unubo Cloud</title>
         </Head>

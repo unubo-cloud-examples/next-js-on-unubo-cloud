@@ -10,7 +10,7 @@ class Page extends Component {
         </Head>
         <div className="card">
           <div className="image-outer">
-            <img src="//static.unubo.cloud/images/next-js.png" alt="React" />
+            <img src="//assets.unubo.com/unubo-cloud-examples/images/next-js.png" alt="Next.js" />
           </div>
 
           <div className="copy">
